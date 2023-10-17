@@ -1,6 +1,6 @@
 name: route_transitions_jpmg
 description: Package for Flutter that customizes the animation in transitions and navigation from one screen to another.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/jnproyects/route-transitions-jpmg
 
 environment:
